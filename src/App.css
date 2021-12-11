@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-image: url('https://wallpaperaccess.com/full/753341.jpg');
+  height: 100vh;
+}
+
+.main-container {
+  display: flex;
+}
+
+.data-container {
+  padding: 10px;
+  background: white;
+  border-radius: 20px;
+  width: 500px;
+  margin: 200px auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 72px;
+  margin-bottom: 20px;
+}
+
+.waveButton {
+  border-radius: 20px;
+  border: 1px solid;
+  font-size: 32px;
+  cursor: pointer;
+  transition: 0.3s all;
+  height: 75px;
+  background: darkblue;
+  color: white;
+}
+
+.waveButton:hover {
+  font-size: 40px;
+}
+
+.profile-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.bio {
+  display: flex;
+  align-items: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
