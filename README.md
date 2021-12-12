@@ -2,6 +2,6 @@
 
 My first Web3 + Ethereum dApp on Rinkeby!
 
-[Live Link](https://react-wave-portal.blakeeriks.repl.co)
+[Live Link](https://waveportal-starter-project.blakeeriks.repl.co/)
 
 ![image](https://i.imgur.com/LdWaFzq.jpg)
